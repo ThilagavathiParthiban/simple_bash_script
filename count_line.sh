@@ -2,3 +2,4 @@
 
 wc -l ./*
 echo
+ls
