@@ -16,7 +16,7 @@ RUN pt-get install software-properties-common -y
 COPY default /etc/nginx/sites-available/default
 
 COPY index.html /usr/share/nginx/html
-COPY style.css /usr/share/nginx/html
+#COPY style.css /usr/share/nginx/html
 
 # Expose the port for access
 EXPOSE 80/tcp
