@@ -1,3 +1,4 @@
+#!bin/bash
 MAX=95
 EMAIL=server@127.0.0.1
 
