@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-ls
+
 echo -n "Enter A Number: "
 read -r n
 arm=0
